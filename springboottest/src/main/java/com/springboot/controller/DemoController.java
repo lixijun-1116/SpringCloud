@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @Date: 2021/2/24 10:50
  */
 @Controller
-@RequestMapping(value = "/demoController")
+@RequestMapping(value = "/demoControllerInto")
 public class DemoController {
 
     private static Logger logger = LoggerFactory.getLogger(DemoController.class);
