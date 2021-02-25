@@ -23,10 +23,10 @@ public class DemoController {
 
     @Value("${test}")
     public String test;
-    @RequestMapping(value = "/hello")
+    @RequestMapping(value = "/into")
     @ResponseBody
     public String hello(){
-        logger.info("test:{}",test);
+        logger.info("test的值:{}",test);
         return "Hello,Word!";
     }
 }
