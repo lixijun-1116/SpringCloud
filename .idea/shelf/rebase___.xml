@@ -1,0 +1,29 @@
+<changelist name="在rebase之前未提交更改_[默认的]" date="1614220801276" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/shelved.patch" />
+  <option name="DESCRIPTION" value="在rebase之前未提交更改 [默认的]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springboottest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/inputFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springboottest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/createdFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springboottest/target/classes/com/springboot/DemoApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/DemoApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springboottest/target/classes/com/springboot/controller/DemoController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/DemoController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springboottest/target/springboottest-1.0-SNAPSHOT.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认的]/springboottest-1.0-SNAPSHOT.jar" />
+  </binary>
+</changelist>
